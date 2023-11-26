@@ -6,3 +6,11 @@ Dopo che l’utente ha deciso e dato conferma d’invio (con un bottone),
 interroga l’API e crea una lista di barzellette che contiene tante barzellette (a tema Programming)
 quante ne ha richieste l’utente.
 */
+
+window.addEventListener('load', () => {
+    const input = document.getElementById('input');
+    const btn = document.getElementById('btn');
+    const container = document.getElementById('container');
+    
+
+})
